@@ -14,5 +14,5 @@ describe('API Endpoints', () => {
  expect(res.statusCode).toEqual(200);
  expect(res.body).toEqual({ status: 'API funcionando correctamente' });
  });
-  
+
 });
